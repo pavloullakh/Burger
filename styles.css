@@ -23,7 +23,7 @@ ul {
 /*-----------HEADER-----------*/
 
 header {
-    background: url(/images/background_01.jpg);
+    background: url(images/background_01.jpg);
     padding-bottom: 90px;
 }
 
@@ -451,7 +451,7 @@ events-texts {
 /*===========FOOTER=======*/
 
 .footer-assets {
-    background: url(/images/cover-footer_16.jpg);
+    background: url(images/cover-footer_16.jpg);
     max-width: 92%;
     margin: 190px 100px 50px 100px;
     display: flex;
